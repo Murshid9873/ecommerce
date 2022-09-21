@@ -1,1 +1,1 @@
-web: gunicorn baabtraecommerce8.wsgi --log-file -
+web: gunicorn ecommerce.wsgi --log-file -
